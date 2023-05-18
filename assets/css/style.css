@@ -68,9 +68,9 @@ aside{
     align-items: center;
     justify-content: center;
     border-right: 1px solid;
-    border-image: linear-gradient(#727275,#2c2c31) 1;
+    border-image: linear-gradient(#a6a6ac,#232329) 1;
     gap:20px;
-    background-image:url("/assets/imagens/amarelo.jpg");
+    background-image: url("/assets/imagens/background.svg");
     background-position: top right;
     background-repeat: no-repeat;
     background-size:auto 100%;
