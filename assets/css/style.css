@@ -162,13 +162,13 @@ aside span img{
         "timeline";
     }
 
-aside{
-    border-right: none;
-    padding: 32px 12px;
-}
+    aside{
+          border-right: none;
+        padding: 32px 12px;
+    }
 
-nav{
-    overflow-y: visible;
-    padding: 22px;
-}
+    nav{
+        overflow-y: visible;
+        padding: 22px;
+    }
 }
